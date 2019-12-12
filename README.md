@@ -1,1 +1,1 @@
-[ColorSelector LINK](http://nikedin.synology.me/js/colorselector/select_rgb.html)
+[ColorSelector LINK](https://naikyding.github.io/colorselector/selectRGB.html)
