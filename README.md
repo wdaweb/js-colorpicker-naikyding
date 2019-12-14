@@ -1,1 +1,1 @@
-[# ColorSelector LINK](https://naikyding.github.io/colorselector/selectRGB.html)
+[ColorSelector LINK](https://naikyding.github.io/colorselector/selectRGB.html)
